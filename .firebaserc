@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "tic-tac-toe-a8a38": {
+      "hosting": {
+        "myAngularApp": [
+          "tic-tac-toe-a8a38"
+        ]
+      }
+    }
+  }
+}
